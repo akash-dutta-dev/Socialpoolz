@@ -1,0 +1,44 @@
+[30-Jul-2018 07:29:23 Europe/London] PHP Notice:  Undefined index: id in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_topic_followed.php on line 4
+[30-Jul-2018 07:29:23 Europe/London] PHP Notice:  Undefined index: userFollowed in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_topic_followed.php on line 5
+[30-Jul-2018 09:44:47 Europe/London] PHP Notice:  Undefined offset: 1 in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 26
+[30-Jul-2018 09:44:47 Europe/London] PHP Warning:  chmod(): No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 36
+[30-Jul-2018 10:03:43 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_if_getProfileAnswer.php on line 7
+[30-Jul-2018 10:03:43 Europe/London] PHP Notice:  Undefined index: page in /home/tz5i5xub80uy/public_html/handlers/question_post.php on line 3091
+[30-Jul-2018 10:10:37 Europe/London] PHP Warning:  imagecreatefromjpeg(../aa_profile_pic_upload/sm12318_temp.jpeg): failed to open stream: No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 22
+[30-Jul-2018 10:10:37 Europe/London] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 25
+[30-Jul-2018 10:10:37 Europe/London] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 58
+[30-Jul-2018 10:10:56 Europe/London] PHP Notice:  Undefined offset: 1 in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 26
+[30-Jul-2018 10:10:56 Europe/London] PHP Warning:  chmod(): No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 36
+[30-Jul-2018 10:12:49 Europe/London] PHP Warning:  imagecreatefromjpeg(../aa_profile_pic_upload/sm1239_temp.jpeg): failed to open stream: No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 22
+[30-Jul-2018 10:12:49 Europe/London] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 25
+[30-Jul-2018 10:12:49 Europe/London] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 58
+[30-Jul-2018 10:14:12 Europe/London] PHP Warning:  imagecreatefromjpeg(../aa_profile_pic_upload/sm1239_temp.jpeg): failed to open stream: No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 22
+[30-Jul-2018 10:14:12 Europe/London] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 25
+[30-Jul-2018 10:14:12 Europe/London] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_upload_profile_pic.php on line 58
+[30-Jul-2018 18:12:44 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_if_getSearchAnswer.php on line 7
+[30-Jul-2018 18:12:44 Europe/London] PHP Notice:  Undefined index: qid in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_if_getSearchAnswer.php on line 8
+[30-Jul-2018 18:12:44 Europe/London] PHP Notice:  Undefined index: page in /home/tz5i5xub80uy/public_html/handlers/question_post.php on line 4417
+[30-Jul-2018 18:27:32 Europe/London] PHP Notice:  Undefined index: id in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_topic_added_to_question.php on line 4
+[30-Jul-2018 18:27:32 Europe/London] PHP Notice:  Undefined index: userAdded in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_topic_added_to_question.php on line 5
+[30-Jul-2018 18:27:32 Europe/London] PHP Notice:  Undefined index: qid in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_topic_added_to_question.php on line 6
+[30-Jul-2018 18:55:21 Europe/London] PHP Warning:  move_uploaded_file(/home/tz5i5xub80uy/public_html/public_html/aa_profile_pic_upload/sm12320_original.b8f3cb5549e0cfb85311e1777d0aa252njpeg): failed to open stream: No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 35
+[30-Jul-2018 18:55:21 Europe/London] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWCJwvH' to '/home/tz5i5xub80uy/public_html/public_html/aa_profile_pic_upload/sm12320_original.b8f3cb5549e0cfb85311e1777d0aa252njpeg' in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 35
+[30-Jul-2018 18:55:21 Europe/London] PHP Warning:  chmod(): No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 36
+[30-Jul-2018 18:55:29 Europe/London] PHP Notice:  Undefined index: user in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 5
+[30-Jul-2018 18:55:29 Europe/London] PHP Notice:  Undefined variable: original_width_2 in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 96
+[30-Jul-2018 18:55:29 Europe/London] PHP Notice:  Undefined variable: original_height_2 in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 97
+[30-Jul-2018 18:55:29 Europe/London] PHP Notice:  Undefined variable: type in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 100
+[30-Jul-2018 18:55:29 Europe/London] PHP Notice:  Undefined variable: fullpath in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 100
+[30-Jul-2018 18:55:30 Europe/London] PHP Warning:  move_uploaded_file(/home/tz5i5xub80uy/public_html/public_html/aa_profile_pic_upload/sm12325_original.8dcd551ecb13ef3d306c8aa2499836c3njpeg): failed to open stream: No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 35
+[30-Jul-2018 18:55:30 Europe/London] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMnJqnJ' to '/home/tz5i5xub80uy/public_html/public_html/aa_profile_pic_upload/sm12325_original.8dcd551ecb13ef3d306c8aa2499836c3njpeg' in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 35
+[30-Jul-2018 18:55:30 Europe/London] PHP Warning:  chmod(): No such file or directory in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_show_picture_for_cropping.php on line 36
+[31-Jul-2018 05:07:43 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_load_topic_box.php on line 6
+[26-Sep-2018 11:50:29 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_fetch_unread_noti.php on line 4
+[24-Apr-2019 20:52:29 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_fetch_unread_noti.php on line 4
+[24-Apr-2019 20:52:45 Europe/London] PHP Notice:  Undefined index: userLoggedIn in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_if_getMainNewsfeed.php on line 7
+[24-Apr-2019 20:52:45 Europe/London] PHP Notice:  Undefined index: page in /home/tz5i5xub80uy/public_html/handlers/question_post.php on line 1868
+[24-Apr-2019 20:56:20 Europe/London] PHP Notice:  Undefined index: answer_id in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_answer_show.php on line 5
+[24-Apr-2019 20:56:20 Europe/London] PHP Notice:  Undefined index: userLogin in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_answer_show.php on line 6
+[24-Apr-2019 20:56:34 Europe/London] PHP Notice:  Undefined index: answer_id in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_answer_upvote.php on line 4
+[24-Apr-2019 20:56:34 Europe/London] PHP Notice:  Undefined index: userUpvoted in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_answer_upvote.php on line 5
+[24-Apr-2019 20:56:34 Europe/London] PHP Notice:  Undefined index: user in /home/tz5i5xub80uy/public_html/ajaxfile/ajax_closing_window.php on line 5
